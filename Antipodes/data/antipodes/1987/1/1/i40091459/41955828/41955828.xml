@@ -1,0 +1,73 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">antipodes</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50006530</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Antipodes</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Association of Australian Literary Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">08935580</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">23319089</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">41955828</article-id>
+         <title-group>
+            <article-title>A Conversation with Shirley Hazzard</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Shirley</given-names>
+                  <surname>Hazzard</surname>
+               </string-name>
+            </contrib>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>DENNIS</given-names>
+                  <surname>DANVERS</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>3</month>
+            <year>1987</year>
+         </pub-date>
+         <volume>1</volume>
+         <issue>1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40091459</issue-id>
+         <fpage>40</fpage>
+         <lpage>43</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/41955828"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>NOTES</title>
+         <ref id="d28666e122a1310">
+            <label>1</label>
+            <mixed-citation id="d28666e129" publication-type="other">
+Ernst Cassirer in The
+Logic of the Humanities, trans. Clarence Smith Howe [New Haven:
+                                Yale
+University Press, 1961], 176</mixed-citation>
+         </ref>
+         <ref id="d28666e142a1310">
+            <label>2</label>
+            <mixed-citation id="d28666e149" publication-type="other">
+Don
+                                Juan is Canto XI, Stanza 82</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,119 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">antipodes</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50006530</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Antipodes</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Association of Australian Literary Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">08935580</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">23319089</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">41955862</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>ESSAYS: FOCUS ON FICTION</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Patrick White's Style—Again</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>RODNEY S.</given-names>
+                  <surname>EDGECOMBE</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>11</month>
+            <year>1987</year>
+         </pub-date>
+         <volume>1</volume>
+         <issue>2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40091460</issue-id>
+         <fpage>83</fpage>
+         <lpage>87</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/41955862"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Works Cited</title>
+         <ref id="d28336e120a1310">
+            <mixed-citation id="d28336e124" publication-type="other">
+Beatson, Peter. The Eye in the Mandala. London: Paul Elek, 1976.</mixed-citation>
+         </ref>
+         <ref id="d28336e131a1310">
+            <mixed-citation id="d28336e135" publication-type="other">
+Bliss, Carolyn. Patrick White's Fiction: The Paradox of Fortunate Failure.
+London: Macmillan, 1986.</mixed-citation>
+         </ref>
+         <ref id="d28336e145a1310">
+            <mixed-citation id="d28336e149" publication-type="other">
+Björksten, I. Patrick White: A General Introduction. St. Lucia: University of
+Queensland Press, 1976.</mixed-citation>
+         </ref>
+         <ref id="d28336e159a1310">
+            <mixed-citation id="d28336e163" publication-type="other">
+Brady, Veronica. "The Novelist and the Reign of Necessity: Patrick White
+and Simone Weil." Patrick White: A Critical Symposium. Eds. R. Shepherd
+and K. Singh. Adelaide: Centre for Research in the New Literatures in
+English, 1978.</mixed-citation>
+         </ref>
+         <ref id="d28336e180a1310">
+            <mixed-citation id="d28336e184" publication-type="other">
+Leech, Geoffrey, and Michael Short. Style in Fiction. London: Longman,
+1981.</mixed-citation>
+         </ref>
+         <ref id="d28336e194a1310">
+            <mixed-citation id="d28336e198" publication-type="other">
+Mitchell, Adrian. "Eventually White's Language: Words and More than
+Words." Patrick White: A Critical Symposium.</mixed-citation>
+         </ref>
+         <ref id="d28336e208a1310">
+            <mixed-citation id="d28336e212" publication-type="other">
+Weigel, John A. Patrick White. Boston: Twayne, 1983.</mixed-citation>
+         </ref>
+         <ref id="d28336e219a1310">
+            <mixed-citation id="d28336e223" publication-type="other">
+White, Patrick. The Aunťs Story. 1948. Rpt. London: Eyre and
+Spottiswoode, 1958.</mixed-citation>
+         </ref>
+         <ref id="d28336e233a1310">
+            <mixed-citation id="d28336e237" publication-type="other">
+---. Memoirs of Many in One. London: Jonathan Cape, 1986.</mixed-citation>
+         </ref>
+         <ref id="d28336e244a1310">
+            <mixed-citation id="d28336e248" publication-type="other">
+---. The Twyborn Affair. London: Jonathan Cape, 1979.</mixed-citation>
+         </ref>
+         <ref id="d28336e256a1310">
+            <mixed-citation id="d28336e260" publication-type="other">
+---. The Vivisector. New York: Viking, 1970.</mixed-citation>
+         </ref>
+         <ref id="d28336e267a1310">
+            <mixed-citation id="d28336e271" publication-type="other">
+Wilde, Oscar. "The Critic as Artist." The Complete Works of Oscar Wilde. Ed.
+Vyvyan Holland. London: Collins, 1966.</mixed-citation>
+         </ref>
+         <ref id="d28336e281a1310">
+            <mixed-citation id="d28336e285" publication-type="other">
+Wolfe, Peter. Laden Choirs. Lexington: University Press of Kentucky, 1983.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

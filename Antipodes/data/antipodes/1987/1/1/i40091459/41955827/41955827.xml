@@ -1,0 +1,134 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">antipodes</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50006530</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Antipodes</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Association of Australian Literary Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">08935580</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">23319089</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">41955827</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>THREE ESSAYS ON AUSTRALIAN/AMERICAN LITERARY CONNECTIONS</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>The Frontier Legacy: Willa Cather and Henry Handel Richardson</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>JACK W.</given-names>
+                  <surname>BENNETT</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>3</month>
+            <year>1987</year>
+         </pub-date>
+         <volume>1</volume>
+         <issue>1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40091459</issue-id>
+         <fpage>35</fpage>
+         <lpage>39</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/41955827"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Works Cited</title>
+         <ref id="d28680e129a1310">
+            <mixed-citation id="d28680e133" publication-type="other">
+Cather, Wìlla. A Lost Lady. 1923. New York: Vintage Books,
+                                1972.</mixed-citation>
+         </ref>
+         <ref id="d28680e140a1310">
+            <mixed-citation id="d28680e144" publication-type="other">
+---
+                                On Writing. 1949. New York: Alfred A. Knopf, 1962.</mixed-citation>
+         </ref>
+         <ref id="d28680e151a1310">
+            <mixed-citation id="d28680e155" publication-type="other">
+---
+                                The Professor's House. 1925. New York: Vintage Books,
+                                1973.</mixed-citation>
+         </ref>
+         <ref id="d28680e162a1310">
+            <mixed-citation id="d28680e166" publication-type="other">
+Green, Dorothy. Ulysses Bound: Henry Handel Richardson and Her
+                                Fiction.
+Canberra: Australian National University Press, 1973.</mixed-citation>
+         </ref>
+         <ref id="d28680e177a1310">
+            <mixed-citation id="d28680e181" publication-type="other">
+Harrison, Dick, ed. Crossing Frontiers: Papers in American and
+                                Canadian
+Western Literature. Edmonton: University of Alberta Press,
+                                1979.</mixed-citation>
+         </ref>
+         <ref id="d28680e191a1310">
+            <mixed-citation id="d28680e195" publication-type="other">
+Lawson, Henry. "Mateship." Henry Lawson: Short Stories and
+                                Sketches
+1888-1922. Ed. Colin Roderick. 2 vols. Sydney: Angus and
+                                Robertson,
+1972. Vol. 1.</mixed-citation>
+         </ref>
+         <ref id="d28680e208a1310">
+            <mixed-citation id="d28680e212" publication-type="other">
+O'Dowd, Bernard. "The Bush." The Bulletin 27 Feb. 1897. Quoted
+                                in:
+Lansbury, Coral. Arcady in Australia. Melbourne: University
+                                of
+Melbourne Press, 1970.</mixed-citation>
+         </ref>
+         <ref id="d28680e225a1310">
+            <mixed-citation id="d28680e229" publication-type="other">
+Richardson, Henry Handel. Australia Felix. New York: Norton,
+                                1929.</mixed-citation>
+         </ref>
+         <ref id="d28680e236a1310">
+            <mixed-citation id="d28680e240" publication-type="other">
+---
+                                The Way Home. New York: Norton, 1930.</mixed-citation>
+         </ref>
+         <ref id="d28680e247a1310">
+            <mixed-citation id="d28680e251" publication-type="other">
+Wild, Barbara, "The Thing Not Named in The Professor's House."
+                                Western
+American Literature 12.4 (1978): 263-274.</mixed-citation>
+         </ref>
+         <ref id="d28680e262a1310">
+            <mixed-citation id="d28680e266" publication-type="other">
+Wright, Judith. "The Upside-down Hut." The Writer in Australia : A
+                                Collec-
+tion of Literary Documents 1856 to 1964. Ed. John Barnes.
+                                Melbourne:
+Oxford University Press, 1969.</mixed-citation>
+         </ref>
+         <ref id="d28680e279a1310">
+            <mixed-citation id="d28680e283" publication-type="other">
+---
+                                Preoccupations in Australian Poetry. Melbourne: Oxford
+                                Uni-
+versity Press, 1965.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

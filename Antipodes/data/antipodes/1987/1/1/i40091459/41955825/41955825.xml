@@ -1,0 +1,118 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">antipodes</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50006530</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Antipodes</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Association of Australian Literary Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">08935580</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">23319089</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">41955825</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>THREE ESSAYS ON AUSTRALIAN/AMERICAN LITERARY CONNECTIONS</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Some American and Australian Literary Connections and Disconnections</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>BRIAN</given-names>
+                  <surname>KIERNAN</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>3</month>
+            <year>1987</year>
+         </pub-date>
+         <volume>1</volume>
+         <issue>1</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40091459</issue-id>
+         <fpage>21</fpage>
+         <lpage>26</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/41955825"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>Works Cited</title>
+         <ref id="d28757e113a1310">
+            <mixed-citation id="d28757e117" publication-type="other">
+Ailwood Keele, Grace. "Homespun Exotica: Australian
+                                Literature
+1880-1910." Diss. University of Sydney 1976.</mixed-citation>
+         </ref>
+         <ref id="d28757e127a1310">
+            <mixed-citation id="d28757e131" publication-type="other">
+Jones, Joseph. Radical Cousins: Nineteenth Century American and
+                                Australian
+Writers. St. Lucia: University of Queensland Press,
+                                1976.</mixed-citation>
+         </ref>
+         <ref id="d28757e141a1310">
+            <mixed-citation id="d28757e145" publication-type="other">
+La
+                                Nauze, J. A., and Elizabeth Nurser. Walter Murdoch and Alfred
+                                Deakin
+on
+                                Books and Men: Letters and Comments 1900-1918. Melbourne:
+Melbourne University Press, 1974.</mixed-citation>
+         </ref>
+         <ref id="d28757e158a1310">
+            <mixed-citation id="d28757e162" publication-type="other">
+McLeod, A. L. Walt Whitman in Australia and New Zealand.
+                                Sydney:
+Wentworth Press, 1964.</mixed-citation>
+         </ref>
+         <ref id="d28757e173a1310">
+            <mixed-citation id="d28757e177" publication-type="other">
+Phillips, A. A. Rev. of American Critical Essays: Twentieth
+                                Century, ed.
+Harold Beaver. Age 27 February 1960.</mixed-citation>
+         </ref>
+         <ref id="d28757e187a1310">
+            <mixed-citation id="d28757e191" publication-type="other">
+Sinnett, Frederick. The Fiction Fields of Australia. Ed. Cecil
+                                Hadgraft. St.
+Lucia: University of Queensland Press, 1966.</mixed-citation>
+         </ref>
+         <ref id="d28757e201a1310">
+            <mixed-citation id="d28757e205" publication-type="other">
+Shapcott, Thomas, ed. Contemporary American and Australian Poetry.
+                                St.
+Lucia: University of Queensland Press, 1976.</mixed-citation>
+         </ref>
+         <ref id="d28757e215a1310">
+            <mixed-citation id="d28757e219" publication-type="other">
+Wilding, Michael, ed. Marcus Clarke. Portable Australian Authors
+                                Series.
+St.
+                                Lucia: University of Queensland Press, 1976.</mixed-citation>
+         </ref>
+         <ref id="d28757e229a1310">
+            <mixed-citation id="d28757e233" publication-type="other">
+The
+                                quotations from San Francisco newspapers are from copies in
+                                the
+Bancroft Library, Berkeley, California.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

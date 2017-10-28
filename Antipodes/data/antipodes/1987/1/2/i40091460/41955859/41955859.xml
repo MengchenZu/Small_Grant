@@ -1,0 +1,85 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">antipodes</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50006530</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Antipodes</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>American Association of Australian Literary Studies</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">08935580</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">23319089</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">41955859</article-id>
+         <article-categories>
+            <subj-group>
+               <subject>ESSAYS: FOCUS ON FICTION</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Randolph Stow's Novels of Exile</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>BRUCE</given-names>
+                  <surname>KING</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>11</month>
+            <year>1987</year>
+         </pub-date>
+         <volume>1</volume>
+         <issue>2</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40091460</issue-id>
+         <fpage>75</fpage>
+         <lpage>78</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/41955859"/>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>NOTES</title>
+         <ref id="d28490e110a1310">
+            <mixed-citation id="d28490e114" publication-type="other">
+Stow's novels are *The Merry-Go-Round in the Sea, 1965;</mixed-citation>
+            <mixed-citation id="d28490e120" publication-type="other">
+A Haunted Land,
+1956;</mixed-citation>
+            <mixed-citation id="d28490e129" publication-type="other">
+The Bystander, 1957;</mixed-citation>
+            <mixed-citation id="d28490e135" publication-type="other">
+*To the Islands, 1958, rev. 1982;</mixed-citation>
+            <mixed-citation id="d28490e142" publication-type="other">
+*Tourmaline, 1963;</mixed-citation>
+            <mixed-citation id="d28490e148" publication-type="other">
+*Visitants, 1979;</mixed-citation>
+            <mixed-citation id="d28490e154" publication-type="other">
+*The Girl Green as Elderflower, 1980;</mixed-citation>
+            <mixed-citation id="d28490e160" publication-type="other">
+* Suburbs of Hell, 1985.</mixed-citation>
+         </ref>
+         <ref id="d28490e167a1310">
+            <mixed-citation id="d28490e171" publication-type="other">
+There are two books on Stow's work: Ray Willbanks, Randolph Stow
+(Boston: Twayne, 1978);</mixed-citation>
+            <mixed-citation id="d28490e180" publication-type="other">
+Anthony J. Hassall, Strange Country: A Study of
+Randolph Stow (New York: University of Queensland Press, 1986).</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
