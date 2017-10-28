@@ -1,12 +1,16 @@
 # Small_Grant
 Use dfr-topics to do the natural language processing with Australian Literatures from the following journals: Antipodes, Australian Literary Studies, Journal of the Association for the Study of Australian Literature (TODO), Southerly, Sydney Review of Books and Westerly (TODO).
 
+
+
 General:
 To get the dfr topics browser, we need two components: wordcounts files and metadata file. The following is some important tips:
 1.	The id in metadata file must be as same as the directory of the wordcounts file without the “.csv”, such as “data/SRB/1”. If you have already written the mallet model, the generated ids of wordcounts can be found in “modeling_results/doc_ids.txt”. If you want to see in R, it can be found in “m$doc_ids” or “doc_ids(m)”.
 2.	Every wordcount file must have a corresponding metadata in metadata file, otherwise metadata won't run in “dfr_browser(m)”.
 3.	If there is any problem when you connect the mallet model ids with metadata ids, you can use “metadata(m)” to see if the loaded metadata is error. You can also use “doc_ids(m)[!doc_ids(m) %in% meta$id]” to see which wordcount file's id is not in metadata file.
 4.	In those “final_” packages, there are two functions help to read metadata: “my_read_dfr_metadata” and “my_read_dfr_citations”. These two functions are the corrected function for “read_dfr_metadata” and “read_dfr_citations” in package “dfrtopics”. The former functions in package are wrong, which is not suitable for our metadata.
+
+
 
 The R packages:
 1.	Antipodes: “Antipodes” package is used to convert wordcount in text files to wordcount in csv files. There is a variable “dest” to set the resource of wordcount in text files and store in csv files.
